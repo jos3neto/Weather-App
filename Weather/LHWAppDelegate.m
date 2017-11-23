@@ -53,6 +53,8 @@
     
     tabBar.viewControllers = @[nav1,nav2,nav3,nav4,nav5];
     
+    // My code ends here
+    
     [self.window makeKeyAndVisible];
     return YES;
 }
